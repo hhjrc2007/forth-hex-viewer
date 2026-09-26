@@ -1,0 +1,17 @@
+forth-hex-viewer
+================
+
+Hex viewer that dumps the contents of a file as hex and ASCII.
+
+* 16 bytes per line
+* shows the offset of each line
+* non-printable bytes shown as '.'
+
+Usage
+-----
+
+	gforth src/view.fs <file>
+
+Example output:
+
+	00000000: 66 6F 72 74 68 2D 68 65 78 2D 76 69 65 77 65 72  forth-hex-viewer
