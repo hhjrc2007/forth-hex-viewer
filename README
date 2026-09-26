@@ -14,4 +14,5 @@ Usage
 
 Example output:
 
-	00000000: 66 6F 72 74 68 2D 68 65 78 2D 76 69 65 77 65 72  forth-hex-viewer
+	00000000: 69 6E 63 6C 75 64 65 20 62 61 73 65 2E 66 73 0A  include base.fs.
+
